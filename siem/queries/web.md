@@ -13,7 +13,6 @@ index=web sourcetype=web_traffic src_ip="xxx.xxx.xxx.xxx"
 
 maybe 'path' on this query is great
 
-### Explain: 
+### Description: 
 selectin a specific ip, we extract the tools used,
 the time and status http code
-
